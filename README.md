@@ -1,4 +1,4 @@
-# IS2103 Assignment Part 2
+# IS2103 Enterprise Java Beans - Assignment Part 2
 
 NUS IS2103 AY16/17 semester 2
 
