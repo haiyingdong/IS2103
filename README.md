@@ -4,4 +4,4 @@ AY16/17 semester 2
 
 Developed in NetBeans, hosted by GlassFish Server 4.0 (yes they suck)
 
-Overall Grade for this project : 100%
+Overall Grade for this project : 100% with bonus pts
